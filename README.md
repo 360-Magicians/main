@@ -1,14 +1,14 @@
 # 🔮 360 MAGICIANS
 
-## 🌐 Platform Domains & Innovation Process
+## 🌐 innovation Process Analysis API
 
 - **[360magicians.com](https://360magicians.com):**  
   Our main platform for Deaf professionals, employers, and partners to access all services, resources, and tools.
 
-- **[360magicians.mbtquniverse.com](https://360magicians.mbtquniverse.com):**  
-  Our innovation and governance hub, currently operating as a Web2-based community platform. Here, new ideas, features, and proposals are submitted and discussed by the community.  
+- **[360magician.com](https://360magicians.com):**  
+  Our innovation and governance hub, currently operating as a Web2-based community platform in dao.mbtq.dev. Here, new ideas, features, and proposals are submitted and discussed by the community.  
   Once proposals are approved, they advance to be implemented or integrated into the main 360magicians platform.  
-  **Note:** mbtquniverse is currently Web2-based, but we aim to transition to a DAO (Decentralized Autonomous Organization) model in the future to further empower community-driven growth and collaboration.
+  **Note:** mbtquniverse is currently under development, but we aim to transition to a DAO (Decentralized Autonomous Organization) model in the future to further empower community-driven growth and collaboration.
 
 *Have a great idea or want to help shape the platform? Propose it at [360magicians.mbtquniverse.com](https://360magicians.mbtquniverse.com)! Once approved, it can become part of the 360magicians ecosystem.*
 
@@ -74,9 +74,9 @@ Connecting clients with essential services:
 ## 🔧 Technology Stack
 
 ```
-Frontend: React, Next.js, TailwindCSS, Deaf-First Design  
+Frontend: node, Next.js, TailwindCSS, Deaf-First Design  
 Mobile: React Native, Native Accessibility APIs  
-Backend: Flask, Node.js, Python, Django REST Framework  
+Backend: Flask,Express, Python, Django REST Framework  
 AI/ML: TensorFlow, Computer Vision, NLP for Sign Recognition  
 Cloud: Google Cloud Platform, Firebase, Supabase  
 Database: MongoDB, PostgreSQL  
@@ -91,7 +91,7 @@ Integration: Webhooks, HTTPS, APIs, and Connectors
 
 ---
 
-## 🔗 Potential Integration Partners
+## 🔗 Potential Integration Tools
 
 - **Replit, Vercel, CursorAI and Open Source projects**
 - **State Vocational Rehabilitation Agencies:** Direct case management integration
@@ -105,11 +105,11 @@ Integration: Webhooks, HTTPS, APIs, and Connectors
 ## 📱 Platform Access
 
 1. Create your profile at [360magicians.com/accounts](#)
-2. Get authenticated with NegraRosa and FibonRoseTrust
-3. Authorize PinkSync to connect your IoT devices for immediate solutions
+2. Get authenticated with FibonRoseTrust
+3. Authorize PinkSync to connect your service for immediate solutions
 4. Connect with your vocational rehabilitation counselor (if applicable)
 5. Select your pathway: Self, Job, or Business Development
-6. Access personalized learning, resources, and opportunities
+6. Access personalized learning, resources, and opportunities modules by external sources 
 7. Track progress through the interactive dashboard
 
 ---
@@ -128,10 +128,9 @@ Led by Deaf professionals with extensive experience in:
 
 ## 📞 Contact & Support
 
-**Email:** support@360magicians.com  
+**Email:** architect@360magicians.com  
 **Video Call:** [Schedule ASL/Sign support](#)  
 **Platform Chat:** Available with sign language support  
-**VR Portal:** [vr4deaf.orgm](#)
 
 ---
 
@@ -147,45 +146,16 @@ We're building an integrated ecosystem for Deaf communities worldwide. Connect w
 
 <div align="center">
   <img src="/api/placeholder/200/50" alt="360 Magicians Logo" />
-  <p>© 2025 360 Magicians & MBTQ Universe | All Rights Reserved</p>
+  <p>© 2025 360 Magicians & MBTQ.dev | All Rights Reserved</p>
 </div>
 
 ---
 
 ## Author
 
-PINKY COLLIE
+PINKY COLLIE and MagicianCore
 ---
 
 ## License
 
 The MIT License.
-
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/pinksync/v0-modern-360-magicians)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/aNXQrYNiYb7)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
-
-## Deployment
-
-My project is live at:
-
-**[https://vercel.com/pinksync/v0-modern-360-magicians](https://vercel.com/pinksync/v0-modern-360-magicians)**
-
-## Build My app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/aNXQrYNiYb7](https://v0.dev/chat/projects/aNXQrYNiYb7)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
