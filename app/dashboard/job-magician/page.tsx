@@ -8,14 +8,14 @@ import { ProfessionalDevelopmentSection } from "@/components/professional-develo
 import { VocationalRehabSection } from "@/components/vocational-rehab-section"
 
 export const metadata: Metadata = {
-  title: "Job Magician | 360 Magicians Platform",
+  title: "Job Service | Career Development Kit",
   description: "Career development for Deaf professionals",
 }
 
 export default function JobMagicianPage() {
   return (
     <DashboardShell>
-      <DashboardHeader heading="Job Magician" text="Your career development toolkit" />
+      <DashboardHeader heading="Job Service" text="Your career development toolkit" />
       <div className="grid gap-6">
         <JobMatchingSection />
         <div className="grid gap-6 md:grid-cols-2">
