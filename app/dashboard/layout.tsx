@@ -7,7 +7,7 @@ import { AccessibilityMenu } from "@/components/accessibility-menu"
 import { Icons } from "@/components/icons"
 
 export const metadata: Metadata = {
-  title: "Dashboard | 360 Magicians Platform",
+  title: "Dashboard | Your Account Managemen",
   description: "Manage your profile and access services",
 }
 
